@@ -7,6 +7,8 @@ This Application made in flutter. This app contain lotsof widgets and animtions 
 ![Screenshot_1606222012](https://user-images.githubusercontent.com/74848355/100099930-10f63b80-2e86-11eb-89d1-66b00e413df9.png)
 ![Screenshot_1606221927](https://user-images.githubusercontent.com/74848355/100102914-3edd7f00-2e8a-11eb-897f-605b809cbe0a.png)
 ![Screenshot_1606222023](https://user-images.githubusercontent.com/74848355/100103038-67fe0f80-2e8a-11eb-8c1d-362d2e4a0c24.png)
+![Screenshot_1606221930](https://user-images.githubusercontent.com/74848355/100103161-8a902880-2e8a-11eb-9fd6-2f3100af6ff8.png)
+
 
 
 
