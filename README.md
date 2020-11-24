@@ -1,6 +1,6 @@
 # Food Point
 
-A new Flutter project.
+This Application made in flutter. This app contain lotsof widgets and animtions with dark and light mode.
 
 ## Getting Started
 
