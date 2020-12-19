@@ -29,7 +29,6 @@ class _SplashScreenState extends State<SplashScreen>
     animationController?.dispose();
     super.dispose();
 
-    // Hiiii
   }
 
   @override
